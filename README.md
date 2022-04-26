@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad Foruozanfar</h1>
 <h3 align="center">I am a bachelor's student at Sajjad University and I am very interested in programming and coding and I am a motivated and hard-working person and I am currently focusing on learning web design and Unity game engine.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farzadforoozanfar&label=Profile%20views&color=0e75b6&style=flat" alt="farzadforoozanfar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadforoozanfar" alt="farzadforoozanfar" /></a> </p>
 
@@ -26,4 +25,5 @@ style=" fill:#000000;"><path fill="#00549d" fill-rule="evenodd" d="M22.903,3.286
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzadforoozanfar&show_icons=true&locale=en&layout=compact" alt="farzadforoozanfar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzadforoozanfar&show_icons=true&locale=en" alt="farzadforoozanfar" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farzadforoozanfar&label=Profile%20views&color=0e75b6&style=flat" alt="farzadforoozanfar" /> </p>
 
