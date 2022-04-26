@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web-design & unity engine**
 
-- 📫 How to reach me **foruozanfar2000f@gmial.com**
+- 📫 How to reach me <a href="foruozanfar2000f@gmail.com">Gmail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
