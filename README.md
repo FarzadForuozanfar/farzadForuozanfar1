@@ -8,7 +8,7 @@
 
 - 📫 How to reach me <a href="foruozanfar2000f@gmail.com">Gmail</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 📞 : </h3>
 <p align="left">
 <a href="https://linkedin.com/in/farzad-foruozanfar-a1773b225" target="blank">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" align="center" width="40"/>
@@ -28,7 +28,7 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠 : </h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="48" height="48"
 viewBox="0 0 48 48"
