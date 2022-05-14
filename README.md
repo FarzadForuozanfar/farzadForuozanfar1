@@ -13,7 +13,8 @@
 <a href="https://linkedin.com/in/farzad-foruozanfar-a1773b225" target="blank">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" align="center" width="40"/>
   </a>
-  
+  <a href""><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" align="center" width="35px">
+  </a>
 <a href="https://stackoverflow.com/users/farzad-foroozanfar" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="farzad-foroozanfar" height="30" width="40" />
   </a>
