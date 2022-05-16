@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web-design & unity engine**
 
-- 📫 How to reach me <a href="foruozanfar2000f@gmail.com">Gmail</a>
+- 📫 How to reach me <a href="mailto:foruozanfar2000f@gmail.com">Gmail</a>
 
 <h3 align="left">Connect with me 📞 : </h3>
 <p align="left">
@@ -26,7 +26,7 @@
   <a href="https://t.me/farzad_foroozanfar">
     <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" align="center" width="40"/>
   </a>
-  <a href="https://gmail.com/foruozanfar2000f@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" align="center" width="35">
+  <a href="mailto:foruozanfar2000f@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" align="center" width="35">
   </a>
 </p>
 
