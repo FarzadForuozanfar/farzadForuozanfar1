@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farzad Foruozanfar</h1>
+<h1 align="center">Hi 👋, I'm Farzad </h1>
 <h3 align="left">I am a bachelor's student at Sajjad University and I am very interested in programming and coding and I am a motivated and hard-working person and I am currently focusing on learning web design and Unity game engine.</h3>
 
 
