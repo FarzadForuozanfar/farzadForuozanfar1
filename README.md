@@ -38,7 +38,8 @@ style=" fill:#000000;"><path fill="#00549d" fill-rule="evenodd" d="M22.903,3.286
   <a><img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
   <a><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
-  
+  <a href="www.php.net"><img src="https://img.icons8.com/fluency/48/000000/php.png"</a>
+  <a href="https://www.mysql.com/"><img width="48px" src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png"></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
