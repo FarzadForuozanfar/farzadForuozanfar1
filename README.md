@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzad </h1>
-<h3 align="left">I am a bachelor's student at Sajjad University and I am very interested in programming and coding and I am a motivated and hard-working person and I am currently focusing on learning web design and Unity game engine.</h3>
+<h3 align="left">I am a bachelor's student at Sadjad University and I am very interested in programming and coding and I am a motivated and hard-working person and I am currently focusing on learning web design and Unity game engine.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadforoozanfar" alt="farzadforoozanfar" /></a> </p>
