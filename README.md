@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadforoozanfar" alt="farzadforoozanfar" /></a> </p>
 
-- 🌱 I’m currently learning **PHP Codeigniter**
+- 🌱 I’m currently learning **Laravel **
 
 - 📫 How to reach me <a href="mailto:foruozanfar2000f@gmail.com">Gmail</a>
 
