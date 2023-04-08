@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" align="center" width="40"/>
   </a>
   
-  <a href="https://t.me/farzad_foroozanfar">
+  <a href="https://t.me/farzad_foruozanfar">
     <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" align="center" width="40"/>
   </a>
   <a href="mailto:foruozanfar2000f@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" align="center" width="35">
